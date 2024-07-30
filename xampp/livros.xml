@@ -1,0 +1,91 @@
+<livraria>
+    
+    <livro>
+        <isbn>1</isbn>
+        <titulo>Assassinato no Expresso do Oriente</titulo>
+        <genero>
+            <descricao>Ficção Policial</descricao>
+            <descricao>Suspense</descricao>
+        </genero>
+        <autor>Agatha Christie</autor>
+        <publicacao>1934</publicacao>
+    </livro>
+
+    <livro>
+        <isbn>2</isbn>
+        <titulo>O Código Da Vinci</titulo>
+        <genero>
+            <descricao>Ficção Policial</descricao>
+            <descricao>Suspense</descricao>
+        </genero>
+        <autor>Dan Brown</autor>
+        <publicacao>2003</publicacao>
+    </livro>
+
+    <livro>
+        <isbn>3</isbn>
+        <titulo>A Cabana</titulo>
+        <genero>
+            <descricao>Ficção</descricao>
+        </genero>
+        <autor>William P. Young</autor>
+        <publicacao>2007</publicacao>
+    </livro>
+
+    <livro>
+        <isbn>4</isbn>
+        <titulo>O Pequeno Príncipe</titulo>
+        <genero>
+            <descricao>Ficção</descricao>
+            <descricao>Fábula</descricao>
+            <descricao>Literatura infantil</descricao>
+        </genero>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <publicacao>1943</publicacao>
+    </livro>
+
+    <livro>
+        <isbn>5</isbn>
+        <titulo>A Zona Morta</titulo>
+        <genero>
+            <descricao>Terror</descricao>
+        </genero>
+        <autor>Stephen King</autor>
+        <publicacao>1979</publicacao>
+    </livro>
+
+    <livro>
+        <isbn>6</isbn>
+        <titulo>Percy Jackson e Os Olimpianos – O Último Olimpiano</titulo>
+        <genero>
+            <descricao>Ficção</descricao>
+            <descricao>Fabula</descricao>
+            <descricao>Mitologia Grega</descricao>
+        </genero>
+        <autor>Rick Riordan</autor>
+        <publicacao>2009</publicacao>
+    </livro>
+
+    <livro>
+        <isbn>7</isbn>
+        <titulo>A Morte e a Morte de Quincas Berro d'Água</titulo>
+        <genero>
+            <descricao>Crime</descricao>
+            <descricao>Regionalismo</descricao>
+        </genero>
+        <autor>Jorge Amado</autor>
+        <publicacao>1959</publicacao>
+    </livro>
+
+    <livro>
+        <isbn>8</isbn>
+        <titulo>Meu Pé de Laranja Lima</titulo>
+        <genero>
+            <descricao>Ficção</descricao>
+        </genero>
+        <autor>José Mauro de Vasconcelos</autor>
+        <publicacao>1968</publicacao>
+    </livro>
+
+
+</livraria>

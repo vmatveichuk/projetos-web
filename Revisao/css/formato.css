@@ -1,0 +1,25 @@
+table{
+	margin: 150px auto;
+}
+input{
+	padding-left: 20px;
+	padding-top:10px;
+	border-radius: 2px 2px 2px 2px;
+	border-color:#ccc;
+	border-width: 1px 1px 1px 1px;
+	margin-top: 3px;
+	font-family: arial;
+}
+button{
+	padding-top: 20px;
+	height: 40px;
+	width: 100px;
+	background-color: #088A68;
+	color: white;
+}
+button:hover{
+	background-color: #04B486;
+}
+.vermelho{
+	border-color: #FA5858;
+}
